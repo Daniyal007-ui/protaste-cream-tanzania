@@ -67,7 +67,7 @@ export default function Hero() {
                     *Inconsistent life between husband and wife..
                 </p>
 
-                <Link href={'https://wa.me/qr/AR43EYIELKAZL1'} className={buttonVariants({ variant: "outline" })}>Customer Support</Link>
+                <Link href={'https://wa.me/message/GUTC3CMZFWAAK1'} className={buttonVariants({ variant: "outline" })}>Customer Support</Link>
 
             </div>
 
